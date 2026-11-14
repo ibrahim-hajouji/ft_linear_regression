@@ -1,5 +1,7 @@
 """Load and validate the km,price training CSV."""
 
+from __future__ import annotations
+
 import csv
 import math
 from pathlib import Path

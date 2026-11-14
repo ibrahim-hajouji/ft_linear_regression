@@ -1,5 +1,7 @@
 """Save and load the trained theta values as JSON."""
 
+from __future__ import annotations
+
 import json
 import math
 from dataclasses import asdict, dataclass
